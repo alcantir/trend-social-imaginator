@@ -1,7 +1,7 @@
 {
-  "itemDisplayName": "TrendMicro-Chef-Splunk Push to Pilot",
-  "description": "This push to pilot launches a security at scale solution stack that provides an automated provisioning, configuration and integration of TrendMicro DeepSecurity, Splunk Enterprise & Chef Server products ready for pre production environments.",
-  "summary": "Security at scale automation stack with TrendMicro Chef and Splunk.",
-  "githubUsername": "uday-sg",
-  "dateUpdated": "2016-07-08"
+  "itemDisplayName": ”trend-social-imaginator”,
+  "description": "This template launches a Windows Server 2016 with the Trend Micro Deep Security pre-installed. It also installs IIS and the social-imaginator web application. The social-imaginator application is used in a HOL to demonstrate Deep Security features in an Azure environment. It is not designed for any kind of production environment.”,
+  "summary": ”Hands on Lab server for Deep Security with social-imaginator.”,
+  "githubUsername": ”alcantir”,
+  "dateUpdated": "2017-02-25”
 }
