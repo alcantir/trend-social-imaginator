@@ -85,7 +85,7 @@
     },
     "managerPortTrendDSM": {
       "type": "string",
-      "defaultValue": "",
+      "defaultValue": "443",
       "metadata": {
         "description": "TrendMicro Deep Security Manager management port"
       }
